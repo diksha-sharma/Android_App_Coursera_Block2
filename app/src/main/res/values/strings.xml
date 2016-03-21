@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="textView_prompt">Pick an animal:</string>
+    <string name="textView_dog">Dog</string>
+    <string name="textView_cat">Cat</string>
+    <string name="textView_crab">Crab</string>
+    <string name="textView_horse">Horse</string>
+    <string name="textView_lion">Lion</string>
+    <string name="textView_leopard">Leopard</string>
+    <string name="Toast_message">"You selected "</string>
+    <string-array name="animal_array">
+        <item>@string/textView_dog</item>
+        <item>@string/textView_cat</item>
+        <item>@string/textView_horse</item>
+        <item>@string/textView_lion</item>
+        <item>@string/textView_crab</item>
+        <item>@string/textView_leopard</item>
+    </string-array>
+</resources>
